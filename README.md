@@ -1,4 +1,4 @@
-# terraform-aws-infra
+# terraform-aws-infra.
 
 > A production-grade multi-tier AWS infrastructure provisioned entirely through reusable Terraform modules.
 > Every resource — VPC, subnets, ALB, EC2 Auto Scaling, RDS PostgreSQL — is defined as code,
